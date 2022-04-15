@@ -3,8 +3,8 @@
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "logo": "https://static10.tgstat.ru/channels/_0/96/96faf804011bb615badb93e6921c65e0.jpg",
   "keywords": ["telegram", "best", "open", "source", "file", "formatter", "chat", "uploader"],
-  "website": "https://github.com/m4mallu/renameprobot",
-  "repository": "https://github.com/m4mallu/renameprobot",
+  "website": "https://github.com/prrname",
+  "repository": "https://github.com/prrname/renameprobot_m4",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
